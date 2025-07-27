@@ -33,8 +33,8 @@ With **IDE Opener**, simply:
 
 ## 🛠 Installation
 
-1. Download dmg and mount it.  
-2. Select your favourite IDE.
+1. Download and mount the dmg, then copy the corresponding opener app to somewhere you prefer.  
+2. Select your favourite opener.
 3. Press Command key [⌘] and drag the icon to your **Finder toolbar**
 <img width="896" height="596" alt="image" src="https://github.com/user-attachments/assets/c1afaf7c-e145-4c49-b812-4bd736f79e66" />
 
