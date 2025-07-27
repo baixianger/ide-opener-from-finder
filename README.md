@@ -36,7 +36,8 @@ With **IDE Opener**, simply:
 1. Download dmg and mount it.  
 2. Select your favourite IDE.
 3. Press Command key [⌘] and drag the icon to your **Finder toolbar**
-   <img width="1800" height="1234" alt="image" src="https://github.com/user-attachments/assets/b46b0ebc-c409-4862-a9cd-9ae47f22271b" />
+<img width="896" height="596" alt="image" src="https://github.com/user-attachments/assets/d67ddfd4-e71d-4a9f-b641-1b1be17d6c45" />
+
 
 
 
