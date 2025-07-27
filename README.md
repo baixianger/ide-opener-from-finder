@@ -1,6 +1,6 @@
 # IDE Opener
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/388834aa-e9d7-480e-9b56-d35720aed408" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/388834aa-e9d7-480e-9b56-d35720aed408" />
 
 
 **IDE Opener** is a lightweight macOS utility that lets you open your favorite IDE (VS Code, Cursor, Windsurf) directly from the **Finder toolbar**. No more tedious navigation—just click and code.
